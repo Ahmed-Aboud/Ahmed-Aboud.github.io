@@ -3,9 +3,7 @@
 PHP Back-End Developer
 loves php , laravel
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Controller
 
 ```markdown
         $repositories = Repository::where('owner_id',$id)->with('owner')->get();
